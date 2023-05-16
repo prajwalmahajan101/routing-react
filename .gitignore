@@ -1,4 +1,7 @@
+#node modules
 node_modules
+# Build folder
 build
+#IDE
 .idea
 .DS_Store
